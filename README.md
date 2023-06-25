@@ -1,6 +1,5 @@
 # mongmeo-dev
 
-* Korean
 * Backend Developer
 
 ## I Use..
